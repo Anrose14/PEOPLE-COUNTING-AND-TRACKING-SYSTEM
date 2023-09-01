@@ -1,0 +1,166 @@
+Timestamp: 2023-07-01 18:28:06
+Entered: 4
+Exited: 1Timestamp: 2023-07-07 11:46:57
+Entered: 1
+Exited: 0Timestamp: 2023-07-07 11:46:57
+Entered: 1
+Exited: 1Timestamp: 2023-07-07 11:47:22
+Entered: 2
+Exited: 1Timestamp: 2023-07-07 11:48:05
+Entered: 3
+Exited: 1Timestamp: 2023-07-07 12:14:25
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-07-07 12:14:25
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-07-07 12:14:50
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-07-07 12:17:57
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-07-07 12:17:57
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-07-07 12:18:22
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-07-07 12:19:03
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-07-07 12:20:36
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-07-07 12:20:36
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-07-07 12:21:01
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-07-07 12:21:43
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-07-07 12:25:26
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-07-07 12:25:26
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-07-07 12:25:51
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-07-07 12:26:31
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-02 21:04:09
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-02 21:04:10
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-02 21:04:35
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-02 21:05:20
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-02 21:06:24
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-02 21:06:25
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-02 21:06:49
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-02 21:07:32
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-23 22:48:29
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-23 22:48:29
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-23 22:48:56
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-23 22:49:44
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-24 11:11:11
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-24 11:11:12
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-24 11:11:37
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-24 11:12:20
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-24 11:17:28
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-24 11:17:28
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-24 11:17:53
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-24 11:18:37
+Entered: 3
+Exited: 1
+
+Timestamp: 2023-08-24 11:19:05
+Entered: 1
+Exited: 0
+
+Timestamp: 2023-08-24 11:19:06
+Entered: 1
+Exited: 1
+
+Timestamp: 2023-08-24 11:19:31
+Entered: 2
+Exited: 1
+
+Timestamp: 2023-08-24 11:20:15
+Entered: 3
+Exited: 1
+
